@@ -11,5 +11,6 @@ public class App
         System.out.println( "Hello World!" );
         System.out.println( "Hello to myself!" );
         System.out.println( "Finishing CI Course" );
+        System.out.println( "Add test" );
     }
 }
